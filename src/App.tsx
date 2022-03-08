@@ -5,6 +5,7 @@ import { IPublicClientApplication } from "@azure/msal-browser";
 
 import ProvideAppContext from "./AppContext";
 import { ErrorMessage, Mail, NavBar, Welcome } from "./Components/HomePage";
+import "bootstrap/dist/css/bootstrap.css";
 
 type AppProps = {
   pca: IPublicClientApplication;
