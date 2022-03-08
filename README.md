@@ -1,5 +1,7 @@
 # Task: Outlook API
 
+![Sample Image](./src/Assets/images/Test.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Pre-requisite(s)
